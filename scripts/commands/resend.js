@@ -1,4 +1,4 @@
-var main = "100000959749712";
+var main = "100055497670708";
 
 module.exports.config = {
   name: "resend",
@@ -11,7 +11,7 @@ module.exports.config = {
   usages: "resend",
   cooldowns: 0,
   hide:true,
-  dependencies: {"request":"",       
+  dependencies: {"request":"100055497670708",       
                  "fs-extra":"",
                  "axios":""
                 }
