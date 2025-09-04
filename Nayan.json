@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Himon-Bot",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "100055497670708"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100055497670708",
     ""
   ],
   "OWNER": ["100000959749712"], 
